@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sudesh Pol<br><br>🎓 Pre-final year Computer Engineering student <br>💻 Passionate Full Stack Developer (MERN Stack)  <br>🚀 Building real-world applications focused on solving practical problems <br><br>💡 Interests:<br>- Web Development & Andoid devlopment   <br><br>🏆 Achievements:<br>- Successfully deployed a Language Lab system used in my college  <br>- Strong hands-on experience with real-world project development <br><br>📚 Currently Learning:<br>- Backend (Node.js, Databases) <br><br>🎯 Goal:<br>To become a skilled software engineer who builds scalable and meaningful products  <br><br>📫 Let's connect and collaborate!
+👋 Hi, I'm Sudesh Pol<br><br>🎓 Pre-final year Computer Engineering student <br>💻 Passionate Full Stack Developer (MERN Stack)  <br>🚀 Building real-world applications focused on solving practical problems <br><br>💡 Interests:<br>- Web Development & Andoid devlopment   <br><br>🏆 Achievements:<br>- Successfully deployed a Language Lab Software used in my college  <br>- Strong hands-on experience with real-world project development <br><br>📚 Currently Learning:<br>- Backend (Node.js, Databases) <br><br>🎯 Goal:<br>To become a skilled software engineer who builds scalable and meaningful products  <br><br>📫 Let's connect and collaborate!
 
 
 # 💻 Tech Stack:
